@@ -14,8 +14,6 @@ The interface is managed using `yad`.
 - [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) (required only for PDF export)
 
 ## Installation
-1. Copy `bookmarks-plugin` folder to your Xournal++ plugins folder:
-   - **Linux**: `~/.config/xournalpp/plugins/`
-   - **Windows**: `%AppData%\xournalpp\plugins\`
+1. Copy `bookmarks-plugin` folder to your Xournal++ plugins folder: `~/.config/xournalpp/plugins/`
 2. Restart Xournal++
 3. Enable the plugin from `Plugin > Plugin Manager`
